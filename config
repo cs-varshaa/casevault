@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	email = cs-varshaa@users.noreply.github.com
+[remote "origin"]
+	url = https://github.com/cs-varshaa/casevault.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
